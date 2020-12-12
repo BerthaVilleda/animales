@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicio-animales\\animales\\animales.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicios\\Ejercicio-clase-animales\\animales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicio-animales\\animales\\animales.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicios\\Ejercicio-clase-animales\\animales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicio-animales\\animales\\animales.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicios\\Ejercicio-clase-animales\\animales.csproj",
         "projectName": "animales",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicio-animales\\animales\\animales.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicios\\Ejercicio-clase-animales\\animales.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicio-animales\\animales\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\c-sharp\\Ejercicios\\Ejercicio-clase-animales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
